@@ -40,6 +40,7 @@ INSTALLED_APPS = [
 
     # Third party
     'django_extensions',
+    'rest_framework',
 
     # Project
     'allapps.api.apps.ApiConfig',
